@@ -9,7 +9,7 @@ Hi, I'm [Sourav Khan!] a passionate self-Learning Web Dev / Bash /Competitive Co
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍💻 I’m currently working on something cool ;
 - 🌱 I’m currently learning Web/Bash; 
 - 💬 Ask me about anything, I am happy to help;
 
@@ -30,11 +30,11 @@ Hi, I'm [Sourav Khan!] a passionate self-Learning Web Dev / Bash /Competitive Co
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Markdown     2 hrs 22 mins   ██████████████░░░░░░░░░░░   56.08 % 
-SCSS         1 hr            ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-JSON         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+C++          2 hrs 22 mins   ██████████████░░░░░░░░░░░   56.08 % 
+BASH         1 hr            ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+JS           17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 HTML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-TypeScript   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+React        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 <!--END_SECTION:waka-->
 
