@@ -24,17 +24,6 @@ Hi, I'm [Sourav Khan!] a passionate self-Learning Web Dev / Bash /Competitive Co
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++          ██████████████░░░░░░░░░░░   56.08 % 
-BASH         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-JS           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-HTML         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-React        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-```
-<!--END_SECTION:waka-->
-
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/souravkhan12"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
