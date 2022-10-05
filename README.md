@@ -10,8 +10,8 @@
 </p> 
 
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Web Development**
+<!-- - 🌱 I’m currently learning **Data Structures, Algorithms and Web Development** -->
 
 <!-- - 📄 Know about my experiences [here](https://souravkhan12.github.io/resume.pdf) -->
 
-<img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="300">
+<img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="center" width="300">
