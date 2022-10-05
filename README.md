@@ -2,6 +2,8 @@
 
 <p align="center">
 <!-- <--<img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="300"> -->
+
+<br/>
  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourav-khan-695869193/)](https://www.linkedin.com/in/sourav-khan-695869193/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s_o_u_rav0001/)](https://www.instagram.com/s_o_u_rav0001/)
@@ -14,4 +16,4 @@
 
 <!-- - 📄 Know about my experiences [here](https://souravkhan12.github.io/resume.pdf) -->
 
-<img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="center" width="300">
+<img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="300">
