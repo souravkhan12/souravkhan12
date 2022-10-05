@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Howdy GitHub-er,  this side!</h1>
+<h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Hi! GitHub-er,  this side!</h1>
 
 <!-- <p align="center">
 <img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="300"> -->
