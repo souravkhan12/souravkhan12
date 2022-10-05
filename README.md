@@ -53,19 +53,19 @@
 <br/>
 
 
-### Language
+<!-- ### Language
 <a href ="https://github.com/gantavyamalviya">
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> -->
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" />
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> -->
 <img align="left" height="37" width="37" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v2.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/external-others-phat-plus/128/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/external-others-phat-plus/128/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png" /> -->
 
 </a>
 
 <br/>
-
+<!-- 
 ### Web Development Stack
 <a href ="https://github.com/gantavyamalviya">
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/html-5--v1.png" />
@@ -76,7 +76,7 @@
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/tomcat.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 </a>
-<br/>
+<br/> -->
 
 <!-- ### App Development Stack
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
