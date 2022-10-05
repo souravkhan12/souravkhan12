@@ -37,7 +37,7 @@
 
 <br/>
 
-
+<!-- 
 ### Tools
 <a href ="https://github.com/gantavyamalviya">
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" />
@@ -50,9 +50,9 @@
 <img align="left" height="32" width="32" src="https://img.icons8.com/officel/480/000000/react.png" />
 
  </a>
-<br/>
+<br/> -->
 
-
+<!-- 
 <!-- ### Language
 <a href ="https://github.com/gantavyamalviya">
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> -->
@@ -62,7 +62,7 @@
 <img align="left" height="37" width="37" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v2.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/external-others-phat-plus/128/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png" /> -->
 
-</a>
+</a> -->
 
 <br/>
 <!-- 
