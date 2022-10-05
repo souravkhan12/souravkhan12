@@ -142,6 +142,4 @@
 </details>
  -->
 
-<p><img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" /></p>
-
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-souravkhan12-red)](https://github.com/souravkhan12)
