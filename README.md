@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">!</h1>
 
 <h3>When I code, I rely on</h3>
+![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
