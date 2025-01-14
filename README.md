@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Stanley Lim](https://www.linkedin.com/in/souravkhan1)
+- **LinkedIn:** [Sourav Khan](https://www.linkedin.com/in/souravkhan1)
 
 ---
 Generated with ❤️ by Sourav Khan.
