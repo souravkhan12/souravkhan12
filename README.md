@@ -28,9 +28,10 @@
 
 ---
 ## 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravkhan12&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravkhan12&theme=radical" alt="GitHub Streak">
-</p>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=souravkhan12&show_icons=true&theme=radical" width="35%" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravkhan12&layout=compact&theme=radical" width="35%" height="180px" />
+</div>
+
 
 Generated with ❤️ by Sourav Khan.
