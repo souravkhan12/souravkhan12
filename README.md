@@ -1,6 +1,4 @@
-<h1 align="start"> Hi there <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">!</h1>
-![Profile Views](https://komarev.com/ghpvc/?username=souravkhan12&label=Profile%20views&color=0e75b6&style=flat)
-
+<h1 align="center"> Hi there <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">!</h1>
 
 <h3>When I code, I rely on</h3>
 <p>
