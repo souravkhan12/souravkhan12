@@ -27,4 +27,10 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:souravkhan654@gmail.com)
 
 ---
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souravkhan12&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravkhan12&theme=radical" alt="GitHub Streak">
+</p>
+
 Generated with ❤️ by Sourav Khan.
