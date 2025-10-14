@@ -3,8 +3,7 @@
 ## ⚡️ About Me
 - 🧐 Learning about **Web Development**, **DSA**, and a bit of **System Design**.
 - 👨‍💻 Most of my projects are available on **[GitHub](https://github.com/souravkhan12)**.
-- 💬 Ping me about **React**, **Next**, **Javascript**, **C++**, and **Software Engineer** opportunities.
-- 📙 Check out my **[resume](https://drive.google.com/file/d/10NOt1pn2CvI92vk-pyvlIH9reCUiz5UL/view?usp=sharing)**.
+- 💬 Ping me about **React**, **Next**, **Javascript**, **C++**, and **Software Engineer** opportunities
 ---
 
 ## 🚀 Some Tools I Use
